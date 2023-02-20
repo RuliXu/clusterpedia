@@ -19,7 +19,7 @@ require (
 	gorm.io/driver/mysql v1.4.4
 	gorm.io/driver/postgres v1.4.5
 	gorm.io/driver/sqlite v1.4.4
-	gorm.io/gorm v1.24.1
+	gorm.io/gorm v1.24.5
 	k8s.io/api v0.25.2
 	k8s.io/apiextensions-apiserver v0.25.2
 	k8s.io/apimachinery v0.25.2
